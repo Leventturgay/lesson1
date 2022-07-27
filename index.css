@@ -1,0 +1,76 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1522336572468-97b06e8ef143?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1510&q=80");
+   background-repeat: no-repeat;
+   background-position: center center ;
+   background-attachment: fixed ;
+   background-size: cover;
+   font-family: Saira;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.bg-dark {
+    background-color: #423f3fb4 !important;
+    z-index: 99;
+}
+nav.navbar{
+   padding: 1rem;
+}
+.contact-form {
+    background-color: #423f3fb4 !important;
+    height: 100vh;
+    width: 40%;
+    text-align: center;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 7rem 2rem 2rem 2rem;
+}
+.navbar-dark .navbar-brand{
+    font-size: 2rem;
+    width: 500;
+}
+.navbar-dark .navbar-brand span {
+    color: #f32c2c;
+    padding: 0rem 0.2rem;
+    
+  }
+.contact-form h5 {
+    color: rgb(199, 26, 26);
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: left;
+    margin-bottom: 2rem;
+    }
+
+.contact-form h2 {
+    color: rgba(223, 206, 206, 0.904);
+    font-weight: 800;
+    font-size: .7rem;
+    text-align:left;
+    margin-bottom: 2rem;
+}
+form h4{
+    font-family: Saira ;
+    text-align: left;
+    width: 100;
+    font-size: 1rem;
+}
+.form-control{
+    background-color:rgba(241, 229, 229, 0.726) !important;
+}
+footer.son .text-light{
+  margin-top: 43rem;
+  color: rgba(189, 163, 163, 0.795);
+  box-shadow:  black;
+  font-size: .8rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 1px 1px 3px black;
+  
+  
+}
+form.date .input-group a{
+    height: 100%;
+    width: 100%;
+    z-index: 999;
+    background-color: red;
+    border-radius: 3rem solid red;
+}
+    
